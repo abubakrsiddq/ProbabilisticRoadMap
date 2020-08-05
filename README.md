@@ -6,3 +6,5 @@
 `
 python3 ./PRM.py
 `
+### Plot of obstacles and nodes
+![Plot](https://github.com/abubakrsiddq/ProbabilisticRoadMap/blob/master/plot.png)
