@@ -10,5 +10,5 @@ python3 ./PRM.py
 ![Plot](https://github.com/abubakrsiddq/ProbabilisticRoadMap/blob/master/plot.png)
 
 ## generated path and Road map
-   path generated using A*
+###   path generated using A*
 ![Path](./path.jpg)  
